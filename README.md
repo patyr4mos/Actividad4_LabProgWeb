@@ -78,7 +78,7 @@ Los datos de la API se insertan con `textContent`, nunca como HTML, para evitar 
 
 ![Función fetchJSON](docs/04-codigo-fetchjson.png)
 
-![Funciones filtrar y tarjeta](docs/05-codigo-filtrar-tarjeta.png)
+![Funciones filtrar y ordenar](docs/05-codigo-filtrar-tarjeta.png)
 
 ## Capturas de la aplicación
 
